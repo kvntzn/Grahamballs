@@ -2,7 +2,8 @@
  Grahamballs is Food Delivery System to choose the “nearest Store” locations and to deliver it. It also has E-commerce to order the grahamballs.
  
  <h3> This project is not maintained anymore !</h3>
- This was made way back college days year 2017, 
+ This was made way back college days year 2017, outdated technologies and some bugs might exist.
+ 
  <p>
  <img src="https://github.com/kvntzn/Grahamballs/blob/master/screenshots/admin.png" width=256 height=144>
  <img src="https://github.com/kvntzn/Grahamballs/blob/master/screenshots/manager.png" width=256 height=144>
